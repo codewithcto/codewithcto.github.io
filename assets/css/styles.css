@@ -599,10 +599,10 @@ html:not(.js) .w > span { transform: none; }
 }
 
 /* v1 */
-.v1 { margin-top: clamp(56px, 8vw, 104px); }
-.v1__head { max-width: 760px; margin-bottom: 28px; }
-.v1__head .eyebrow { margin-bottom: 14px; }
-.v1__head p:last-child { margin-top: 14px; color: var(--muted); }
+.v1, .ai26 { margin-top: clamp(56px, 8vw, 104px); }
+.v1__head, .ai26__head { max-width: 760px; margin-bottom: 28px; }
+.v1__head .eyebrow, .ai26__head .eyebrow { margin-bottom: 14px; }
+.v1__head p:last-child, .ai26__head p:last-child { margin-top: 14px; color: var(--muted); }
 
 .bento { display: grid; grid-template-columns: 1fr; gap: 14px; }
 .bento__item { padding: clamp(20px, 2.6vw, 28px); display: flex; flex-direction: column; gap: 10px; }

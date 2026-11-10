@@ -190,17 +190,17 @@
       sections: ["journey", "madscientist", "zoho", "engineering", "timeline", "recognition", "contact"]
     },
     investor: {
-      lead: "Co-founder and CTO of MadScientist, building Scientific Intelligent Models that predict physical state instead of the next token. Raman‑C1, a 3B-parameter foundational SIM for space R&D, is in development with a team of 5+. Our v1 platform onboarded 15,000+ users and was incubated at T-Hub.",
+      lead: "Co-founder and CTO of MadScientist, building Scientific Intelligent Models that predict physical state instead of the next token. Raman‑C1, a 3B-parameter foundational SIM for space R&D, is in development with a team of 5+. Our v1 platform onboarded 15,000+ users and was incubated at T-Hub. Applied AI is already in production: three systems I built pair Claude and Gemini with deterministic checks.",
       cta1: ["See MadScientist & Raman-C1", "#madscientist"], cta2: ["Talk to me", "mailto:bhanuprasadthandra@gmail.com?subject=MadScientist%20%E2%80%94%20introduction"],
       sections: ["madscientist", "journey", "recognition", "timeline", "zoho", "engineering", "contact"]
     },
     zoho: {
-      lead: "Technology Head at Zyenac Solutions. 100+ Zoho implementations and integrations across 20+ industries, from pre-sales to go-live: full-stack rollouts, custom Creator apps, links to Oracle Fusion, SAP, Focus ERP, Infor LN and Tally, migrations and ongoing support.",
+      lead: "Technology Head at Zyenac Solutions. 100+ Zoho implementations and integrations across 20+ industries, from pre-sales to go-live: full-stack rollouts, custom Creator apps, links to Oracle Fusion, SAP, Focus ERP, Infor LN and Tally, migrations and ongoing support. I have also built three production AI systems on Zoho.",
       cta1: ["See the Zoho practice", "#zoho"], cta2: ["Start a Zoho project", "mailto:bhanuprasadthandra@gmail.com?subject=Zoho%20project%20enquiry"],
       sections: ["zoho", "engineering", "timeline", "recognition", "journey", "madscientist", "contact"]
     },
     engineering: {
-      lead: "Full-stack engineer who has shipped regulated banking software at DBS, a 15,000-user platform on Angular, Node.js and WebSockets, and now the cloud infrastructure and deployments behind a foundation model. Java and Spring Boot, TypeScript and Angular, Python, CI/CD. Teams of 5+ and 15+.",
+      lead: "Full-stack engineer who has shipped regulated banking software at DBS, a 15,000-user platform on Angular, Node.js and WebSockets, three production LLM systems (Claude, Gemini) on Google Cloud and Firebase, and now the cloud infrastructure and deployments behind a foundation model. Java and Spring Boot, TypeScript and Angular, Python, CI/CD. Teams of 5+ and 15+.",
       cta1: ["See engineering depth", "#engineering"], cta2: ["Talk to me", "mailto:bhanuprasadthandra@gmail.com?subject=Engineering%20opportunity"],
       sections: ["engineering", "timeline", "zoho", "madscientist", "journey", "recognition", "contact"]
     }
