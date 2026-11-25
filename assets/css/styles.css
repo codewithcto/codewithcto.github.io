@@ -599,9 +599,9 @@ html:not(.js) .w > span { transform: none; }
 }
 
 /* v1 */
-.v1, .ai26 { margin-top: clamp(56px, 8vw, 104px); }
-.v1__head, .ai26__head { max-width: 760px; margin-bottom: 28px; }
-.v1__head .eyebrow, .ai26__head .eyebrow { margin-bottom: 14px; }
+.v1, .ai26, .ms26 { margin-top: clamp(56px, 8vw, 104px); }
+.v1__head, .ai26__head, .ms26__head { max-width: 760px; margin-bottom: 28px; }
+.v1__head .eyebrow, .ai26__head .eyebrow, .ms26__head .eyebrow { margin-bottom: 14px; }
 .v1__head p:last-child, .ai26__head p:last-child { margin-top: 14px; color: var(--muted); }
 
 .bento { display: grid; grid-template-columns: 1fr; gap: 14px; }
@@ -697,7 +697,7 @@ html:not(.js) .w > span { transform: none; }
 .record__stats div { display: flex; flex-direction: column; gap: 2px; }
 .record__stats b { font-family: var(--font-display); font-size: clamp(1.9rem, 4.6vw, 3rem); letter-spacing: -0.04em; line-height: 1; font-weight: 800; }
 .record__stats span { color: var(--muted); font-size: 0.86rem; }
-@media (min-width: 760px) { .record__stats { grid-template-columns: repeat(5, 1fr); } }
+@media (min-width: 760px) { .record__stats { grid-template-columns: repeat(4, 1fr); } }
 
 .appcloud { margin-top: clamp(28px, 4vw, 44px); display: grid; gap: 12px; }
 
