@@ -187,17 +187,17 @@
     overall: {
       lead: "I deliver Zoho at scale and build AI and SaaS products end to end: 100+ Zoho implementations, live in-house products and production AI systems.",
       cta1: ["Explore the journey", "#journey"], cta2: ["Get in touch", "#contact"],
-      sections: ["journey", "zoho", "products", "engineering", "madscientist", "timeline", "recognition", "contact"]
+      sections: ["journey", "zoho", "products", "engineering", "madscientist", "timeline", "recognition", "howiwork", "contact"]
     },
     zoho: {
       lead: "Technology Head at Zyenac Solutions. 100+ Zoho implementations and integrations across 20+ industries, from pre-sales to go-live: full-stack rollouts, custom Creator apps, links to Oracle Fusion, SAP, Focus ERP, Infor LN and Tally, migrations and ongoing support. I have also designed and built three production AI systems on Zoho.",
       cta1: ["See the Zoho practice", "#zoho"], cta2: ["Start a Zoho project", "mailto:bhanuprasadthandra@gmail.com?subject=Zoho%20project%20enquiry"],
-      sections: ["zoho", "engineering", "products", "timeline", "recognition", "journey", "madscientist", "contact"]
+      sections: ["zoho", "engineering", "products", "timeline", "recognition", "journey", "madscientist", "howiwork", "contact"]
     },
     engineering: {
       lead: "Full-stack engineer and Technology Head. I have shipped banking software at DBS, a platform that onboarded 15,000+ users, live hospitality products on Node.js, Angular and WhatsApp, and three production LLM systems (Claude, Gemini) on Google Cloud and Firebase. Java and Spring Boot, TypeScript and Angular, Python, CI/CD. Teams of 5+ and 15+.",
       cta1: ["See engineering depth", "#engineering"], cta2: ["Talk to me", "mailto:bhanuprasadthandra@gmail.com?subject=Engineering%20opportunity"],
-      sections: ["engineering", "products", "timeline", "zoho", "madscientist", "journey", "recognition", "contact"]
+      sections: ["engineering", "products", "timeline", "zoho", "madscientist", "journey", "recognition", "howiwork", "contact"]
     }
   };
 
